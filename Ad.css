@@ -1,0 +1,21 @@
+.reels-vid{
+	height: 40vh;
+	border: 1px solid #ddd;
+	display: flex;
+	width: 60%;
+	overflow: auto;
+	padding: 20px 10px;
+
+}
+.reels-vid::-webkit-scrollbar{
+	width: 0;
+
+}
+
+.reels-vid .item video{
+	height: 100%;
+	width: 210px;
+	margin-right: 5px;
+	border-radius: 20px;
+	
+}

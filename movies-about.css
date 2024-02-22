@@ -1,0 +1,278 @@
+#banner{
+	width: 100%;
+}
+#banner {
+	width: 100%;
+	height: 300px;
+	background-image: url(images/movies-1.jpeg);
+	background-size: cover;
+	background-position: top 25% right 0;
+	background-size: 100%;
+	border-radius: 8px;
+	animation: slider 60s infinite running;
+}
+@keyframes slider{
+	25%{ background-image: url(images/movies-2.jpeg); }
+	50%{ background-image: url(images/movies-3.jpeg); }
+	75%{ background-image: url(images/movies-4.jpeg); }
+}
+
+#container1{
+	background: var(--nav-color);
+	padding-left: 20%;
+	padding-right: 6%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+}
+
+#container1{
+	background: var(--nav-color);
+	padding-left: 20%;
+	padding-right: 6%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+}
+
+#flex-div{
+	display: flex;
+	align-items: center;
+
+	padding: 0px 2%;
+	justify-content: space-between;
+/*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+	background:white;
+	position: static;
+	top: 0;
+	border-radius: 10px;
+	box-shadow: none;
+	z-index: 10;
+
+
+}
+.nav-right #btn{
+	background-color: whitesmoke;
+	color: black;
+	font-size: 20px;
+	
+	padding: 10px 25px;
+	border: 0;
+	border-radius: 20px;
+	margin: 10px 5px;
+
+}
+
+.nav-right #btn p{
+	font-size: 14px;
+}
+.nav-right  i{
+	padding: 10px 10px;
+	margin-right: 10px;
+	font-size: 20px;
+	
+}
+
+
+#container2{
+	background: var(--nav-color);
+	padding-left: 20%;
+	padding-right: 6%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	width: 100%;
+
+}
+#feat p{
+	color: black;
+	padding-top: 20px;
+	padding-left: 20px;
+	font-weight: bold;
+
+}
+#left{
+	display: flex;
+}
+#left #sandip{
+	padding: 0px 20px;
+}
+
+
+#flex-div_2{
+	display: flex;
+	align-items: center;
+	padding: 0px 2%;
+	padding-left: 0px;
+	justify-content: space-between;
+/*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+	background:white;
+	position: static;
+	top: 0;
+	border-radius: 10px;
+	box-shadow: none;
+	z-index: 10;
+
+
+}
+.nav-middle_1{
+	margin: 20px 0px;
+	width: 700px;
+	margin-right: 50px;
+	padding-left: 0px;
+
+	
+}
+.nav-middle_1 #one p{
+	font-size: 18px;
+	padding: 15px 0px;
+	
+}
+.nav-middle_1 #two p{
+	font-size: 16px;
+	padding: 10px 0px;
+	
+}
+.nav-middle_1 #three p{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-middle_1 #four p{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-middle_1 #five p{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-middle_1 #six {
+	display: flex;
+}
+.nav-middle_1 #six p{
+	display: flex;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+}
+.nav-middle_1 #seven p{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-middle_1 #eight,#night{
+	display: flex;
+}
+.nav-middle_1 #eight a{
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-right: 277px;
+	padding-left: 20px;
+	color: blue;
+}
+.nav-middle_1 #nine{
+	padding-bottom: 20px;
+}
+.nav-middle_1 #nine a{
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-right: 300px;
+	padding-left: 20px;
+	color: blue;
+	margin-bottom: 10px;
+
+}
+.nav-middle_1 hr{
+	border: 0;
+	height: 1px;
+	background: #ccc;
+	width: 95%;
+}
+/*   ---------------------- main ------------------------- */
+#story-container{
+	padding-left: 0%;
+	padding-right: 4%;
+	display: flex;
+}
+
+#story-container .story-circle{
+	background: white;
+
+}
+#story-container .story-circle a p{
+	color: gray;
+	font-weight: bold;
+}
+#story-container hr{
+	border: 0;
+	height: 1px;
+	background: #ccc;
+	width: 99%;
+
+}
+
+
+
+
+
+
+.nav-right_1 #btn:hover{
+	background: gray;
+}
+
+.nav-right_1 #btn p{
+	font-size: 14px;
+}
+
+.nav-right_1 #one{
+	font-size: 18px;
+	padding: 10px 0px;
+}
+.nav-right_1 #two{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-right_1 #three{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-right_1 #four{
+	font-size: 16px;
+	padding: 10px 0px;
+}
+.nav-right_1{;
+	
+	
+	width: 300px;
+	height: 60vh;
+}
+.nav-right_1 hr{
+	border: 0;
+	height: 1px;
+	background: #ccc;
+	width: 95%;
+}
+
+
+
+#story-container{
+	padding-left: 0%;
+	padding-right: 4%;
+	display: flex;
+}
+
+#story-container .story-circle{
+	background: white;
+
+}
+#story-container .story-circle a p{
+	color: gray;
+	font-weight: bold;
+}
+#story-container hr{
+	border: 0;
+	height: 1px;
+	background: #ccc;
+	width: 99%;
+
+}

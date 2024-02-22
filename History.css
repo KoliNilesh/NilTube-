@@ -1,0 +1,189 @@
+#flex-div_1{
+	display: flex;
+	align-items: center;
+	padding: 0px 2%;
+	/*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+	
+	position: static;
+	top: 0;
+	border-radius: 10px;
+	box-shadow: none;
+	z-index: 10;
+
+
+
+}
+
+#btn_1{
+	color: black;
+	font-size: 12px;
+	box-shadow: 0 0 10px #999;
+	padding: 5px 15px;
+	border: 0;
+	border-radius: 5px;
+	margin: 10px 5px;
+
+}
+
+.nav-left_1 img{
+	border-radius: 30px;
+	padding: 20px;
+}
+.nav-left_1 img:hover{
+	border-radius: 5%;
+
+}
+.nav-middle_1{
+	margin: 20px 20px;
+	width: 600px;
+	margin-right: 50px;
+
+	
+}
+.nav-middle_1 #top a{
+	font-size: 22px;
+	
+}
+.nav-middle_1 #Middle a{
+	font-size: 14px;
+	
+}
+.nav-middle_1 #bottom a{
+	font-size: 14px;
+}
+
+.container1{
+	background: var(--nav-color);
+	padding-left: 2%;
+	padding-right: 1%;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	width: 90%;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+#flex-div{
+	display: flex;
+	justify-content: flex-start;
+
+	padding: 0px 1%;
+	
+/*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+	
+	position: static;
+	top: 0;
+	border-radius: 10px;
+	box-shadow: none;
+	z-index: 10;
+
+	background: var(--nav-color);
+	padding-left: 18%;
+	padding-right: 2%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	
+	
+
+}
+
+.nav-right_1 #btn{
+	background-color: #fff;
+	color: black;
+	font-size: 18px;
+	box-shadow: 0 0 10px #999;
+	padding: 5px 30px;
+	border: 0;
+	border-radius: 20px;
+	margin: 10px 5px;
+
+}
+
+.nav-right_1  i{
+	padding: 5px 10px;
+	margin-right: 10px;
+	
+}
+#nav-right{
+
+	background: var(--nav-color);
+	padding-left: 2%;
+	padding-right: 1%;
+	margin-left: 58%;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	position: fixed;
+	font-family: monospace;
+	justify-content: flex-start;
+
+	width: 350px;
+	background: whitesmoke;
+
+	
+}
+
+#nav-right #top {
+	text-align: center;
+	padding-bottom: 20px;
+}
+#nav-right #top img{
+	padding: 5px 10px;
+	margin-right: 10px;
+	width: 100px;
+	border-radius: 50%; 
+
+
+}
+
+#nav-right #bottom{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 5px;
+}
+#nav-right #bottom h4 ,h5{
+	color: gray;
+
+}
+
+
+
+
+#right_one{
+	display: flex;
+	padding: 15px 0px;
+	justify-content: space-around;
+}
+
+#right_2{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 0px;
+	padding-top: 40px;
+}
+#right_3{
+	display: flex;
+	padding: 15px 0px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: fantasy;
+}
+#right_3 p{
+	padding-left: 10px;
+}
+
+#right_4{
+	padding: 15px 35px;
+	color: gray;
+	font-size: 14px;
+	font-weight: bolder;
+}

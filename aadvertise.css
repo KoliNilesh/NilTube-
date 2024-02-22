@@ -1,0 +1,27 @@
+body{
+	background-color: rgba(27, 31, 34, 0.85);
+}
+h1{
+	font-size: 2.1rem;
+	line-height: 1.4;
+	letter-spacing: 0.5rem;
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+}
+.maindiv{
+	width: 70%;
+	height: 400px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	background-size: 100% 100%;
+	box-shadow: 2px 4px 10px 5px  red;
+	animation: slider 60s infinite linear;
+}
+@keyframes slider{
+	0%{ background-image: url(images/thumbnail2.png); }
+	35%{ background-image: url(images/thumbnail3.png); }
+	75%{ background-image: url(images/thumbnail4.png); }
+}

@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="w98idth=device-width, initial-scale=1">
+	<title>WWE 🤼‍  - YouTube</title>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+	<link rel="stylesheet" type="text/css" href="wwe-shorts.css">
+	<script src="https://kit.fontawesome.com/c4254e24a8.js"crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+</head>
+<body>
+
+	<nav class="flex-div">
+ 		<div class="nav-left flex-div">
+ 			<img src="images/menu.png" class="menu-icon">
+ 			<img src="images/logo.png" class="logo">
+
+ 		</div>
+ 		<div class="nav-middle flex-div">
+ 			 <div class="search-box flex-div">
+ 			 	<input type="text" placeholder="Search">
+ 			 	<img src="images/search.png">
+ 			 </div>
+ 			 <img src="images/voice-search.png" class="mic-iocn">
+ 		</div>
+ 		<div class="nav-right flex-div" >
+ 			
+ 			<div class="nav-user-icon online">
+				<img src="images/upload.png" onclick="Nileshkoli()">
+			</div>
+ 			<div class="nav-user-icon online">
+				<img src="images/notification.png" onclick="TusharSonawane()">	
+			</div>
+ 			<div class="nav-user-icon online"onclick="settingsMenubaba()">
+				<img src="images/pic.jpeg">
+			</div> 			
+ 		</div>
+ 		
+
+ 		<div class="settings-menu">
+			<div id="dark-btn">
+				<span></span>
+			</div>
+
+			<div class="settings-menu-inner ">
+				<div class="user-profile">
+ 				   <img src="images/pic.jpeg">
+ 			  	
+ 				<div>
+
+ 				<h3>Nilesh Koli</h3>
+ 				<p>@nkoli0431</p>
+ 				<a href="#">Manage your Google Account</a>
+ 				</div>
+ 			</div>
+ 			<hr>
+	 			<div class="settings-links">
+	 				
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+
+ 			<hr>
+ 			
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+	 			</div>
+	 		<hr>
+ 			<div class="settings-links">
+ 				<img src="images/setting.png " class="settings-icon">
+ 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/setting.png " class="settings-icon">
+ 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/setting.png " class="settings-icon">
+ 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/setting.png " class="settings-icon">
+ 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/setting.png " class="settings-icon">
+ 				<a href="#">Settings & privacy <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<hr>
+ 			<div class="settings-links">
+ 				<img src="images/help.png " class="settings-icon">
+ 				<a href="#">Help & Support <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/help.png " class="settings-icon">
+ 				<a href="#">Help & Support <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+ 			<div class="settings-links">
+ 				<img src="images/help.png " class="settings-icon">
+ 				<a href="#">Help & Support <img src="images/arrow.png" width="10px"></a>
+ 			</div>
+
+ 		
+		</div>
+
+	</div>
+	<div class="Asettings-menu">
+			
+			<div class="settings-menu-inner ">
+				<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy </a>
+	 			</div>
+	 			<div class="settings-links">
+	 				<img src="images/setting.png " class="settings-icon">
+	 				<a href="#">Settings & privacy </a>
+	 			</div>
+	 			
+ 			</div>
+ 			<hr>
+	 </div>			
+	<div class="Bsettings-menu">
+			
+			<div class="settings-menu-inner ">
+				<div class="settings-links">
+	 				
+	 				<a href="#">Settings & privacy <img src="images/setting.png " class="settings-icon"></a>
+	 			</div>
+	 			
+ 			</div>
+ 			<hr>
+	 			
+		
+	</div>	
+
+
+	
+
+
+
+
+ 	</nav>
+ 	<!-------- Sidebar --------------------  -->
+
+ 	<div class="sidebar">
+ 		<div class="shortcut-links" >
+ 			<div class="smallbar-color">
+ 				<a href=youTube.html style="color: red;"><img src="images/home.png"><p>Home</p></a>
+ 			</div>
+ 			<div class="smallbar-color">
+ 				<a href=Shorts.html><img src="images/explore.png"><p>Shorts</p></a>
+ 			</div>
+ 			<div class="smallbar-color">
+ 				<a href="subscriptions.html"><img src="images/subscriprion.png"><p>Subscription</p></a>
+ 			</div>
+ 			<div class="smallbar-color">
+ 				<a href="Library1.html"><img src="images/library.png"><p>Library</p></a>
+ 			</div>
+
+
+ 			
+ 			<hr>
+ 		</div>
+ 		<div class="shortcut-links" id="nil">
+ 			
+ 			 <div class="Nilesh">
+ 				<a href="History.html"><img src="images/history.png"><p>Your History</p></a>   
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href="Watch_leter.html"><img src="images/subscriprion.png"><p>Watch Later</p></a>
+ 			
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href="liked_video.html"><img src="images/subscriprion.png"><p>Liked Videos</p></a>
+ 			</div>
+ 			
+ 			  
+
+ 			<hr>
+ 		</div>
+ 		<div class="subscribed-list1">
+ 			<h3>Subscribed</h3>
+ 			
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Sandeep Maheshavari</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Jack Nicholson</p></a>
+ 			</div>
+
+
+ 			
+ 		</div>
+ 		<hr>
+ 		<div class="subscribed-list1">
+ 			<h3>Explore</h3>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Trending</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Music</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Trending</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Music</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Films</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Live</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>gaming</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>news</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Sport</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Learning</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Fashine & Beauty</p></a>
+ 			</div>
+ 			
+ 		</div>
+ 		<hr>
+ 		<div class="subscribed-list1">
+ 			<h3>More from Youtube</h3>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>YouTube Premium</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Creator Studio</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>YouTube Music</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>YouTube Music</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>YouTube TV</p></a>
+ 			</div>
+ 			
+ 			
+ 			
+ 			
+ 			
+ 		</div> 
+ 		<hr>
+ 		<div class="subscribed-list1">
+ 			<h3>Explore</h3>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Settings</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Report histroy</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Help</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Send feedback</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Send feedback</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 				<a href=""><img src="images/pic.jpeg"><p>Send feedback</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 					<a href=""><img src="images/pic.jpeg"><p>Send feedback</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 					<a href=""><img src="images/pic.jpeg"><p>Help</p></a>
+ 			</div>
+ 			<div class="Nilesh">
+ 					<a href=""><img src="images/pic.jpeg"><p>Send feedback</p></a>
+ 			</div>
+ 			
+ 			
+ 			
+ 			
+ 		</div>
+ 		<hr>
+ 		<div class="subscribed-list-last">
+ 			<h3>Explore</h3>
+ 			<div class="Nilesh">
+ 					<a href=""><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+ 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven</p></a>
+ 			</div>
+
+
+
+ 			<h5>@Nilation_8886</h5>
+ 		</div>
+ 		<hr>
+ 			
+ 	</div>
+
+
+ 	<!-- ------------  Main ------------------->
+
+ 	<div class="container">
+ 		<div id="banner">
+ 		<!--	<div class="maindiv"></div>  
+ 				<img src="images/thumbnail2.png"> -->
+ 		</div>
+ 		
+ 		
+ 	</div>
+
+ 	<div id="container1">
+ 		<nav id="flex-div">
+ 				<div class="nav-left ">
+					<div id="left">
+						<div> 
+						<img src="images/pic.jpeg" width="100px" style="border-radius: 50%;">
+						</div>	
+						<div id="sandip">
+							<h1 style="font-weight: normal; padding-bottom: 5px;">WWE  <i class="fa-solid fa-earth-americas" style="font-size: 12px;"></i> </h1>
+							<h4 style="font-weight: normal; padding-bottom: 3px; color: gray;" >@WWE</h4>
+							<h4 style="font-weight: normal; color: gray;">92.6 M subscribers</h4>
+						</div>
+					</div>
+ 			
+ 				</div>
+		 		<div class="nav-right" >
+		 					
+						<a href="Manage.html"><button id="btn"><p>subcribed</p></button></a>
+						<i class="fa-regular fa-bell"></i>
+							
+					
+		 		</div>
+
+		</nav>
+		<div class="Heading">
+		
+			<div id="story-container">
+				
+				<div class="story-circle"><a href="wwe.html" style="font-size: 16px;"><p >HOME</p></a> </div>
+				<div class="story-circle"><a href="WWE-videos.html" style="font-size: 16px;"><p >VIDEOS</p></a> </div>
+				<div class="story-circle"style="color: gray; background: black; font-size: 20px;"><a href="wwe-shorts.html" style="font-size: 16px;border-bottom: 2px solid whitesmoke;"><p style="color: white;">SHORTS</p></a> </div>
+				<div class="story-circle"><a href="wwe-playlisted.html"style="font-size: 16px; "><p>PLAYLISTED</p> </a></div>
+				<div class="story-circle"><a href="wwe-community.html"style="font-size: 16px;"><p>COMMUNITY</p></a> </div>
+				<div class="story-circle"><a href="wwe-channal.html"style="font-size: 16px;"><p>CHANNELS</p> </a></div>
+				<div class="story-circle"><a href="wwe-about.html"style="font-size: 16px;"><p>ABOUT</p> </a></div>
+				<div class="story-circle"><a href=""style="font-size: 16px;"><i class="fa-solid fa-magnifying-glass"></i></a> </div>
+				
+			
+			</div>
+
+		 
+		</div>
+	</div>
+		
+	
+	<div id="container3">
+		
+ 			<div id="Shorts">
+ 						
+ 						<div>
+ 							<a href="">Popular Videos</a>
+ 						</div>
+ 						<div><a href=""><i class="fa-sharp fa-solid fa-play" style="padding-right: 10px; padding-left: 30px;"></i> Play All</a></div>
+ 						
+ 			</div>
+
+		 	
+ 			<div id="list-container">
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			</div>
+	<hr>
+	</div><div id="container3">
+		
+ 			<div id="Shorts">
+ 						
+ 						<div>
+ 							<a href="">Popular Videos</a>
+ 						</div>
+ 						<div><a href=""><i class="fa-sharp fa-solid fa-play" style="padding-right: 10px; padding-left: 30px;"></i> Play All</a></div>
+ 						
+ 			</div>
+
+		 	
+ 			<div id="list-container">
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			<div id="reels">
+ 				<a href="play-vid.html">
+ 				<video src="reels/reels6.mp4"  autoplay  controls muted preload="metadata" loop  height="px"></video>
+				</a>		
+				<div id="flex-div">
+ 					
+ 					<div id="vid-info"><a href="play-vid.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a><p>15k view - 2 Days</p></div>
+ 				</div>
+ 			</div>
+ 			</div>
+	<hr>
+	</div>
+
+ 	<div id="container2">
+ 		<div id="feat"><p>Featured Channels</p></div>
+		<nav id="flex-div_2">
+ 				<div class="nav-left_1 ">
+					<a href=""><img src="images/pic.jpeg" width="180px"></a>	
+ 			
+ 				</div>
+ 				<div class="nav-middle_1">
+ 					<div id="top"><a href=""><b>WWE </b></a></div>
+ 					<div id="Middle"><a href="" style="padding: 10px 0px;"> <i class="fa-solid fa-earth-americas" style="font-size: 12px; padding: 10px 0px;"></i>  96.2 subscribed - 654 videos</a></div>
+ 					<div id="bottom"><a href="">We're bringing all the smoke today on WWE's The Bump with Montez Ford and Angelo Dawkins of The Street Profits and WWE Hall of Famer X-Pac...</a></div>
+ 					
+ 				</div>
+		 		<div class="nav-right_1" >
+		 				
+		 					
+						<a href="Manage.html"><button id="btn"><p>subcribed</p></button></a>
+						
+							
+					
+		 		</div>
+	
+						
+		 		</div>
+ 			</nav>
+ 	<hr>		
+	</div>
+	
+
+
+<script src="script.js"></script>
+</body>
+</html>
